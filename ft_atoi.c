@@ -3,14 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fcanadas <fcanadas@student.42.fr>          +#+  +:+       +#+        */
+/*   By: elvmarti <elvmarti@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/15 13:00:52 by fcanadas          #+#    #+#             */
-/*   Updated: 2020/10/17 22:03:52 by fcanadas         ###   ########.fr       */
+/*   Updated: 2020/12/23 01:43:51 by elvmarti         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+hola
 
 int		ft_atoi(char *str)
 {
